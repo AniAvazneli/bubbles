@@ -1,0 +1,15 @@
+.App{
+  height: 100vh;
+  background-color: rgb(255, 224, 205);
+  /* background-image: url(../public/bubble1.jpg); */
+}
+
+.point{
+  display: inline-block;
+  position: absolute;
+}
+
+.bImage{
+  width: 60px;
+  height: 60px;
+}
