@@ -1,0 +1,35 @@
+.App{
+  height: 100vh;
+  background-color: rgb(255, 224, 205);
+  /* background-image: url(../public/bubble1.jpg); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.point{
+  display: inline-block;
+  position: absolute;
+}
+
+.bImage{
+  width: 60px;
+  height: 60px;
+}
+
+.buttonC{
+  background-color: rgb(252, 212, 187);
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+button{
+  background-color: rgb(251, 180, 139);
+  border: 0px;
+  color: rgb(231, 44, 174);
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
